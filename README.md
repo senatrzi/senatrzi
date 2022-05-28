@@ -1,2 +1,16 @@
 # senatrzi
- 
+
+<h1 align="center">Hi! 👋 I'm Sena.</h1>
+<h3 align="center">Computer Engineering Student</h3>
+
+- 🌱 I’m currently learning **Machine Learning and Data Science.**
+
+- 📫 How to reach me: **senatrzi@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/senaterzi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senatrzi" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/senaterzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="senatrzi" height="30" width="40" /></a>
+</p>
+
+![](https://komarev.com/ghpvc/?username=senatrzi&color=B6E2A4)
