@@ -5,7 +5,7 @@
 
 - 💻 I’m currently learning **Machine Learning and Data Science.**
 
-- 📧 How to reach me: **senatrzi@gmail.com**
+- 📨 How to reach me: **senatrzi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
