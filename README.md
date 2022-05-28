@@ -3,7 +3,7 @@
 <h1 align="center">Hi! 👋 I'm Sena.</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-- 🌱 I’m currently learning **Machine Learning and Data Science.**
+- 🧠 I’m currently learning **Machine Learning and Data Science.**
 
 - 📫 How to reach me: **senatrzi@gmail.com**
 
