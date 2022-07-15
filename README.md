@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋 I'm Sena.</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-- 💻 I’m currently learning **Machine Learning and Data Science.**
+- 💻 I’m currently learning **Java and Mobile Application Development**
 
 - 📨 How to reach me: **senatrzi@gmail.com**
 
