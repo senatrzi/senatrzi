@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋 I'm Sena.</h1>
 <h3 align="center">iOS Developer</h3>
 
-- 💻 I’m currently learning **Swift and Objective-C**.
+- 💻 I’m currently learning **SwiftUI and Swift, and also a bit of Objective-C**.
 
 - 📨 How to reach me: **senatrzi@gmail.com**
 
